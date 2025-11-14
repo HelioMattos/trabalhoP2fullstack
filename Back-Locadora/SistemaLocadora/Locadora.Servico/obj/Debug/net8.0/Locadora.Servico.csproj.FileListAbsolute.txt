@@ -1,0 +1,102 @@
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Servico.deps.json
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Servico.dll
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Servico.pdb
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Dominio.dll
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Repositorio.dll
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Repositorio.pdb
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Dominio.pdb
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.csproj.AssemblyReference.cache
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.AssemblyInfoInputs.cache
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.AssemblyInfo.cs
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.csproj.CoreCompileInputs.cache
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.BDFD6896.Up2Date
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.dll
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\refint\Locadora.Servico.dll
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.pdb
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\ref\Locadora.Servico.dll
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Servico.deps.json
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Servico.dll
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Servico.pdb
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Dominio.dll
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Repositorio.dll
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Repositorio.pdb
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Dominio.pdb
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.csproj.AssemblyReference.cache
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.AssemblyInfoInputs.cache
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.AssemblyInfo.cs
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.csproj.CoreCompileInputs.cache
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.BDFD6896.Up2Date
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.dll
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\refint\Locadora.Servico.dll
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.pdb
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\ref\Locadora.Servico.dll
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Servico.deps.json
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Servico.dll
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Servico.pdb
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Dominio.dll
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Repositorio.dll
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Repositorio.pdb
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Dominio.pdb
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.csproj.AssemblyReference.cache
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.AssemblyInfoInputs.cache
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.AssemblyInfo.cs
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.csproj.CoreCompileInputs.cache
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.BDFD6896.Up2Date
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.dll
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\refint\Locadora.Servico.dll
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.pdb
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\ref\Locadora.Servico.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Servico.deps.json
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Servico.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Servico.pdb
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Dominio.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Repositorio.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Repositorio.pdb
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Dominio.pdb
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.csproj.AssemblyReference.cache
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.AssemblyInfoInputs.cache
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.AssemblyInfo.cs
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.csproj.CoreCompileInputs.cache
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.BDFD6896.Up2Date
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\refint\Locadora.Servico.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.pdb
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\ref\Locadora.Servico.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Servico.deps.json
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Servico.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Servico.pdb
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Dominio.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Repositorio.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Repositorio.pdb
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Dominio.pdb
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.csproj.AssemblyReference.cache
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.AssemblyInfoInputs.cache
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.AssemblyInfo.cs
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.csproj.CoreCompileInputs.cache
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.BDFD6896.Up2Date
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\refint\Locadora.Servico.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.pdb
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\ref\Locadora.Servico.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Servico.deps.json
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Servico.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Servico.pdb
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Dominio.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Repositorio.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Repositorio.pdb
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Servico\bin\Debug\net8.0\Locadora.Dominio.pdb
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.csproj.AssemblyReference.cache
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.AssemblyInfoInputs.cache
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.AssemblyInfo.cs
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.csproj.CoreCompileInputs.cache
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.BDFD6896.Up2Date
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\refint\Locadora.Servico.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\Locadora.Servico.pdb
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Servico\obj\Debug\net8.0\ref\Locadora.Servico.dll

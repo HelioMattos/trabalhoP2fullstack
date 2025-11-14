@@ -1,0 +1,66 @@
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Dominio\bin\Debug\net8.0\Locadora.Dominio.deps.json
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Dominio\bin\Debug\net8.0\Locadora.Dominio.dll
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Dominio\bin\Debug\net8.0\Locadora.Dominio.pdb
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.AssemblyInfoInputs.cache
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.AssemblyInfo.cs
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.dll
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\refint\Locadora.Dominio.dll
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.pdb
+C:\Users\ESCRITORIO\Desktop\Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\ref\Locadora.Dominio.dll
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Dominio\bin\Debug\net8.0\Locadora.Dominio.deps.json
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Dominio\bin\Debug\net8.0\Locadora.Dominio.dll
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Dominio\bin\Debug\net8.0\Locadora.Dominio.pdb
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.AssemblyInfoInputs.cache
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.AssemblyInfo.cs
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.dll
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\refint\Locadora.Dominio.dll
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.pdb
+C:\Users\ESCRITORIO\Desktop\Sistema de Locadora\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\ref\Locadora.Dominio.dll
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Dominio\bin\Debug\net8.0\Locadora.Dominio.deps.json
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Dominio\bin\Debug\net8.0\Locadora.Dominio.dll
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Dominio\bin\Debug\net8.0\Locadora.Dominio.pdb
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.AssemblyInfoInputs.cache
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.AssemblyInfo.cs
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.dll
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\refint\Locadora.Dominio.dll
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.pdb
+C:\Users\HELIO MATTOS\Desktop\Sistema de Locadora finalizado\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\ref\Locadora.Dominio.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Dominio\bin\Debug\net8.0\Locadora.Dominio.deps.json
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Dominio\bin\Debug\net8.0\Locadora.Dominio.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Dominio\bin\Debug\net8.0\Locadora.Dominio.pdb
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.AssemblyInfoInputs.cache
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.AssemblyInfo.cs
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\refint\Locadora.Dominio.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.pdb
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCADORA\Sistema de Locadora finalizado\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\ref\Locadora.Dominio.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Dominio\bin\Debug\net8.0\Locadora.Dominio.deps.json
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Dominio\bin\Debug\net8.0\Locadora.Dominio.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Dominio\bin\Debug\net8.0\Locadora.Dominio.pdb
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.AssemblyInfoInputs.cache
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.AssemblyInfo.cs
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\refint\Locadora.Dominio.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.pdb
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\ref\Locadora.Dominio.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Dominio\bin\Debug\net8.0\Locadora.Dominio.deps.json
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Dominio\bin\Debug\net8.0\Locadora.Dominio.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Dominio\bin\Debug\net8.0\Locadora.Dominio.pdb
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.AssemblyInfoInputs.cache
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.AssemblyInfo.cs
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\refint\Locadora.Dominio.dll
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\Locadora.Dominio.pdb
+C:\Users\HELIO MATTOS\Desktop\SISTEMA DE LOCACAO FINALIZADO\Back-Locadora\SistemaLocadora\Locadora.Dominio\obj\Debug\net8.0\ref\Locadora.Dominio.dll
