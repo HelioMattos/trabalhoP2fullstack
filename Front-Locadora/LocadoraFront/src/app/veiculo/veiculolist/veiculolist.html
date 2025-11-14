@@ -1,0 +1,63 @@
+<mat-card>
+  
+  <div class="card-header">
+    <mat-card-title>Lista de Veículos</mat-card-title>
+    
+    <div class="novo-veiculo-button-container">
+      <button mat-raised-button color="primary" (click)="abrirFormulario()">
+        <mat-icon>add</mat-icon>
+        Novo Veículo
+      </button>
+    </div>
+  </div>
+  <table mat-table [dataSource]="veiculos" class="mat-elevation-z8">
+
+    <ng-container matColumnDef="modelo">
+      <th mat-header-cell *matHeaderCellDef> Modelo </th>
+      <td mat-cell *matCellDef="let veiculo"> {{veiculo.modelo}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="marca">
+      <th mat-header-cell *matHeaderCellDef> Marca </th>
+      <td mat-cell *matCellDef="let veiculo"> {{veiculo.marca}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="ano">
+      <th mat-header-cell *matHeaderCellDef> Ano </th>
+      <td mat-cell *matCellDef="let veiculo"> {{veiculo.ano}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="placa">
+      <th mat-header-cell *matHeaderCellDef> Placa </th>
+      <td mat-cell *matCellDef="let veiculo"> {{veiculo.placa}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="status">
+      <th mat-header-cell *matHeaderCellDef> Status </th>
+      <td mat-cell *matCellDef="let veiculo"> {{veiculo.status}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="acoes">
+      <th mat-header-cell *matHeaderCellDef> Ações </th>
+      <td mat-cell *matCellDef="let veiculo">
+        
+        <button mat-icon-button (click)="abrirGaleria(veiculo.imagemUrl)" title="Ver Fotos">
+          <mat-icon>photo_library</mat-icon>
+        </button>
+        
+        <button mat-icon-button color="primary" (click)="abrirFormularioEdicao(veiculo)" title="Editar">
+          <mat-icon>edit</mat-icon>
+        </button>
+        
+        <button mat-icon-button color="warn" (click)="deletarVeiculo(veiculo.id)" title="Deletar">
+          <mat-icon>delete</mat-icon>
+        </button>
+        
+      </td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+  </table>
+
+</mat-card>

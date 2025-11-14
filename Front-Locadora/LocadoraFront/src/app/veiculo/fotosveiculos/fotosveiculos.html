@@ -1,0 +1,43 @@
+<div *ngIf="imagemSelecionadaIndex !== null" class="imagem-ampliada-container">
+  
+  <button mat-icon-button class="nav-button-voltar" (click)="fecharImagem()" title="Voltar para a Galeria">
+    <mat-icon>close</mat-icon>
+  </button>
+
+  <div class="imagem-nav-wrapper">
+    
+    <button mat-icon-button class="nav-button" (click)="imagemAnterior()">
+      <mat-icon>chevron_left</mat-icon>
+    </button>
+
+    <img [src]="imagemAmpliadaUrl" class="imagem-ampliada" alt="Foto do veículo ampliada">
+
+    <button mat-icon-button class="nav-button" (click)="proximaImagem()">
+      <mat-icon>chevron_right</mat-icon>
+    </button>
+  </div>
+</div>
+
+
+<div *ngIf="imagemSelecionadaIndex === null">
+  <h2 mat-dialog-title>Fotos do Veículo</h2>
+
+  <mat-dialog-content class="galeria-container">
+    
+    <img *ngFor="let urlDaImagem of listaDeUrls; let i = index" 
+         [src]="urlDaImagem" 
+         class="foto-thumbnail" 
+         (click)="selecionarImagem(i)"
+         alt="Miniatura do veículo">
+
+    <div *ngIf="listaDeUrls.length === 0">
+      <p>Nenhuma imagem cadastrada para este veículo.</p>
+    </div>
+  </mat-dialog-content>
+
+  <mat-dialog-actions align="end">
+    <button mat-raised-button color="primary" (click)="fechar()">
+      Fechar
+    </button>
+  </mat-dialog-actions>
+</div>

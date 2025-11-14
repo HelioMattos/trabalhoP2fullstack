@@ -1,0 +1,86 @@
+
+.galeria-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 16px;
+  padding-top: 10px;
+  max-height: 70vh;
+  overflow-y: auto;
+}
+
+.foto-thumbnail {
+  width: 100%;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.foto-thumbnail:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+mat-dialog-content div {
+  width: 100%;
+  text-align: center;
+  padding: 20px;
+}
+
+.imagem-ampliada-container {
+  position: relative;
+  background-color: #222;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: -24px; 
+}
+
+.imagem-nav-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 80vh;
+}
+
+.nav-button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%) scale(1.5);
+  background-color: rgba(0, 0, 0, 0.3);
+  color: white;
+  z-index: 10;
+}
+
+.nav-button:first-of-type {
+  left: 10px;
+}
+.nav-button:last-of-type {
+  right: 10px;
+}
+.nav-button:hover {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.nav-button-voltar {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: rgba(0, 0, 0, 0.3);
+  color: white;
+  z-index: 10;
+}
+.nav-button-voltar:hover {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.imagem-ampliada {
+  max-width: 90%;
+  max-height: 90%;
+  object-fit: contain;
+  border-radius: 4px;
+}

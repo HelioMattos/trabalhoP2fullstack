@@ -1,0 +1,15 @@
+:host {
+  display: block;
+  min-height: 100vh;
+  background-image: url('/fundo.png'); 
+  background-size: cover; 
+  background-position: center center; 
+  background-attachment: fixed; 
+}
+
+.content-wrapper {
+  padding: 32px;
+}
+.toolbar-spacer {
+  flex: 1 1 auto;
+}

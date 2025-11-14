@@ -1,0 +1,50 @@
+<h2 mat-dialog-title>{{ tituloFormulario }}</h2>
+
+<form [formGroup]="veiculoForm" (ngSubmit)="onSalvar()">
+
+  <mat-dialog-content>
+
+    <mat-form-field appearance="outline" class="full-width">
+      <mat-label>Modelo</mat-label>
+      <input matInput formControlName="modelo" placeholder="Ex: Onix">
+    </mat-form-field>
+
+    <mat-form-field appearance="outline" class="full-width">
+      <mat-label>Marca</mat-label>
+      <input matInput formControlName="marca" placeholder="Ex: Chevrolet">
+    </mat-form-field>
+
+    <mat-form-field appearance="outline" class="full-width">
+      <mat-label>Ano</mat-label>
+      <input matInput type="number" formControlName="ano" placeholder="Ex: 2023">
+    </mat-form-field>
+
+    <mat-form-field appearance="outline" class="full-width">
+      <mat-label>Placa</mat-label>
+      <input matInput formControlName="placa" placeholder="Ex: ABC1234">
+    </mat-form-field>
+
+    <mat-form-field appearance="outline" class="full-width">
+      <mat-label>Valor da Diária (R$)</mat-label>
+      <input matInput type="number" formControlName="valorDiaria" placeholder="Ex: 150">
+    </mat-form-field>
+
+    <mat-form-field appearance="outline" class="full-width">
+      <mat-label>URLs das Imagens (uma por linha)</mat-label>
+      <textarea 
+        matInput 
+        formControlName="imagemUrl" 
+        placeholder="Cole as URLs aqui, uma em cada linha..."
+        rows="5"
+      ></textarea>
+    </mat-form-field>
+
+  </mat-dialog-content>
+
+  <mat-dialog-actions align="end">
+    <button mat-stroked-button color="warn" type="button" (click)="onCancelar()">Cancelar</button>
+    
+    <button mat-raised-button color="primary" type="submit" [disabled]="!veiculoForm.valid">Salvar</button>
+  </mat-dialog-actions>
+
+</form>
